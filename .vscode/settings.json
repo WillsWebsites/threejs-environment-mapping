@@ -9,6 +9,7 @@
     "Parens",
     "Raycaster",
     "RGBE",
+    "Skybox",
     "Toon",
     "webgl",
     "wireframe"
